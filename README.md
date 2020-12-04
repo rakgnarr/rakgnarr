@@ -27,7 +27,15 @@
 <!-- Technologies & Tools -->
 ##  Technologies & Tools
 <p align="center">
-  <img src= "./Icons/unity.svg" width="30px">
+  <img src= "./Icons/unity.svg" width="35px">
+  <img src= "./Icons/visualstudiocode.svg" width="35px">
+  <img src= "./Icons/affinitydesigner.svg" width="35px">
+  <img src= "./Icons/csharp.svg" width="35px">
+  <img src= "./Icons/cplusplus.svg" width="35px">
+  <img src= "./Icons/opengl.svg" width="35px">
+ <img src= "./Icons/androidstudio.svg" width="35px">
+ <img src= "./Icons/android.svg" width="35px">
+ <img src= "./Icons/python.svg" width="35px">
 </p>
 
 
