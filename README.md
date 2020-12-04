@@ -10,7 +10,7 @@
  
 ## Technologies & Tools
 
- - <img src= "./Icons/unity.svg" width = "15px"> Unity
+ - <img src= "./Icons/unity.svg" width = "15px"> ### Unity
  - 
  
 
