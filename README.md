@@ -2,7 +2,7 @@
 ### I'm an ambitious self-taught independent developer with 5+ years of programming experience. Talented problem solver with wide knowledge in creating game mechanics, 2D/3D graphics and animation, artificial intelligence, and optimization techniques.
 
 
-![The cubels](https://imgur.com/NQa7DqW)
+![TicTacTwist](https://user-images.githubusercontent.com/57303814/101132254-887d4680-35bb-11eb-9f82-c692b5fbf0c0.gif)
 
 
 <!--
