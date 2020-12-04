@@ -26,7 +26,7 @@
  
 <!-- Technologies & Tools -->
 <p align="center">
-  ##  Technologies & Tools
+  <## Technologies & Tools>
   <img src= "./Icons/unity.svg" width="35px">
   <img src= "./Icons/visualstudiocode.svg" width="35px">
   <img src= "./Icons/affinitydesigner.svg" width="35px">
