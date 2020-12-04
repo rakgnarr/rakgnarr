@@ -12,7 +12,7 @@
  
  
 <!-- About Me -->
-## About Me
+## 📜 About Me
  - 🎓 Bachelor in Computer Science
  - 🕹️ Indie game developer
  - 🎮 I play video games casually & competitively
@@ -25,7 +25,7 @@
  
  
 <!-- Technologies & Tools -->
-## Technologies & Tools
+## ⚙️ Technologies & Tools
 <p align="center">
   Center Text Test
 </p>
@@ -33,7 +33,7 @@
 
 
 <!-- Currently -->
-## Currently
+## 🔭 Currently
 - Seeking a job in the tech industry
 - Working on UBBU
 - Exploring different project ideas
@@ -42,7 +42,7 @@
 
 
 <!-- Unpublished Work -->
-## Unpublished Work/Postponed
+## 🔖 Unpublished Work/Postponed
 <p align="center">
   Center Text Test
 </p>
