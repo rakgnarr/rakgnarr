@@ -25,18 +25,8 @@
  
  
 <!-- Technologies & Tools -->
-
-<table align="center"><tr><td align="center" width="9999">
-<img src="/icon.png" align="center" width="150" alt="Project icon">
-
-# MyProject
-
-Description for my awesome project
-</td></tr></table>
-
-
-<p align="center">
 ## Technologies & Tools 
+<p align="center">
   <img src= "./Icons/unity.svg" width="35px">
   <img src= "./Icons/visualstudiocode.svg" width="35px">
   <img src= "./Icons/affinitydesigner.svg" width="35px">
@@ -46,6 +36,7 @@ Description for my awesome project
   <img src= "./Icons/androidstudio.svg" width="35px">
   <img src= "./Icons/android.svg" width="35px">
   <img src= "./Icons/python.svg" width="35px">
+  <img src= "./Icons/arduino.svg" width="35px">
 </p>
 
 
