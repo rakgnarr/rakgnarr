@@ -10,7 +10,7 @@
  
 ## Technologies & Tools
 
- - <img src= "./Icons/unity.svg" width = "20px">  Unity
+ - ![](https://img.shields.io/badge/<./Icons/unity.svg>-<Unity>-informational?style=flat&logo=<Unity>&logoColor=white&color=2bbc8a)
  - 
  
 
