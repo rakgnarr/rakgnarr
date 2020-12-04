@@ -1,6 +1,7 @@
 # Hello there 👋
 ### I'm an ambitious self-taught independent developer with 5+ years of programming experience. Talented problem solver with wide knowledge in creating game mechanics, 2D/3D graphics and animation, artificial intelligence, and optimization techniques.
 
+![Banner](https://user-images.githubusercontent.com/57303814/101206639-42100200-3624-11eb-948c-5829a7571fa8.png)
 
 
 
