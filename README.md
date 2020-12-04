@@ -25,7 +25,7 @@
  
  
 <!-- Technologies & Tools -->
-<center> ## Technologies & Tools </center>
+## Technologies & Tools {style=text-align:center}
 <p align="center">
   <img src= "./Icons/unity.svg" width="35px">
   <img src= "./Icons/visualstudiocode.svg" width="35px">
