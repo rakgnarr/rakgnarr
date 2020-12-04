@@ -25,9 +25,15 @@
  
  
 <!-- Technologies & Tools -->
-<div align="center"> 
-## Technologies & Tools 
-</div>
+
+<table align="center"><tr><td align="center" width="9999">
+<img src="/icon.png" align="center" width="150" alt="Project icon">
+
+# MyProject
+
+Description for my awesome project
+</td></tr></table>
+
 
 <p align="center">
 ## Technologies & Tools 
