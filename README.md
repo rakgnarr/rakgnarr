@@ -66,7 +66,7 @@
 <!-- Unpublished Work -->
 ##  Unpublished/Postponed Work
  <p align="center">
- <a href="https://rakandev.me"><img src="./Cards/TheCubelsCard.png" width="100px"></a>
+ <a href="https://rakandev.me"><img src="./Cards/TheCubelsCard.png" width="200px"></a>
  <p>
 
 
