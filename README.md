@@ -56,21 +56,17 @@
 
 
 <!-- Currently -->
-##  Current Projects
-<p align="center">
-  <a href="https://rakandev.me"><img src="./Cards/UBBUCard.png" width="150px"></a>
- <p>
-
-<!-- Currently -->
-## Completed Projects
-<p align="center">
-  <a href="https://rakandev.me"><img src="./Cards/TicTacTwistCard.png" width="150px"></a>
- <p>
+##  Currently
+- Seeking a job in the Tech industry
+- Working on a commercial game: UBBU(Ultimate Brick Battle Universe)
+- Exploring other project ideas
 
 
-<!-- Unpublished Work -->
-##  Unpublished/Postponed Projects
+<!-- Projects -->
+## Projects
  <p align="center">
+  <a href="https://rakandev.me"><img src="./Cards/UBBUCard.png" width="150px"></a>
+  <a href="https://rakandev.me"><img src="./Cards/TicTacTwistCard.png" width="150px"></a>
   <a href="https://rakandev.me"><img src="./Cards/IntoTheNightmareCard.png" width="150px"></a>
   <a href="https://rakandev.me"><img src="./Cards/NOSquish.png" width="150px"></a>
   <a href="https://rakandev.me"><img src="./Cards/TheCubelsCard.png" width="150px"></a>
