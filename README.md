@@ -26,7 +26,7 @@
  - 🎮 I play video games casually & competitively
  - ☕ Love for Coffee!
  - 🛹 Enjoy skateboarding
- - 📚 Bilingual (Arabic) & currently learning Japanese 
+ - 📚 Bilingual
  - 📫 How to reach me: rakan.alsagoor@gmail.com
  
  
