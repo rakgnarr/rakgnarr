@@ -1,8 +1,9 @@
 <!-- Banner -->
 ![Banner](https://user-images.githubusercontent.com/57303814/101210757-de3d0780-362a-11eb-9aab-6a40b7b3947b.png)
+ [<img src="./Icons/unity.svg" width="25"/>](https://rakandev.me)
 
 <p align="center">
-  [<img src="./Icons/unity.svg" width="25"/>](https://rakandev.me)
+ 
   <img src= "./Icons/visualstudiocode.svg" width="35px">
 </p>
 
