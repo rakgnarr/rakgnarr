@@ -60,14 +60,15 @@
   <a href="https://rakandev.me"><img src="./Cards/UBBUCard.png" width="150px"></a>
  <p>
 
-## Finished Projects/Games
+<!-- Currently -->
+## Completed Projects
 <p align="center">
   <a href="https://rakandev.me"><img src="./Cards/TicTacTwistCard.png" width="150px"></a>
  <p>
 
 
 <!-- Unpublished Work -->
-##  Unpublished/Postponed Work
+##  Unpublished/Postponed Projects
  <p align="center">
   <a href="https://rakandev.me"><img src="./Cards/IntoTheNightmareCard.png" width="150px"></a>
   <a href="https://rakandev.me"><img src="./Cards/NOSquish.png" width="150px"></a>
