@@ -2,9 +2,9 @@
 ![Banner](https://user-images.githubusercontent.com/57303814/101210757-de3d0780-362a-11eb-9aab-6a40b7b3947b.png)
  
  <p align="center">
- <a href="https://rakandev.me"><img src="./Icons/website.svg" width="35px"></a>
- <a href="https://linkedin.com/in/rakandev"><img src="./Icons/linkedin.svg" width="35px"></a>
- <a href="rakan.alsagoor@gmail.com"><img src="./Icons/gmail.svg" width="35px"></a>
+ <a href="https://rakandev.me"><img src="./Icons/website.svg" width="25px"></a>
+ <a href="https://linkedin.com/in/rakandev"><img src="./Icons/linkedin.svg" width="25px"></a>
+ <a href="rakan.alsagoor@gmail.com"><img src="./Icons/gmail.svg" width="25px"></a>
  <p>
  
 
@@ -46,6 +46,11 @@
   <img src= "./Icons/android.svg" width="35px">
   <img src= "./Icons/python.svg" width="35px">
   <img src= "./Icons/arduino.svg" width="35px">
+ <img src= "./Icons/github.svg" width="35px">
+ <img src= "./Icons/git.svg" width="35px">
+ <img src= "./Icons/mysql.svg" width="35px">
+ <img src= "./Icons/linux.svg" width="35px">
+ <img src= "./Icons/blender.svg" width="35px">
 </p>
 
 
