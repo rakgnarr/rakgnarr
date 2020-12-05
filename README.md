@@ -71,7 +71,6 @@
   <a href="https://rakandev.me"><img src="./Cards/TheCubelsCard.png" width="200px"></a>
   <a href="https://rakandev.me"><img src="./Cards/ProjektCubeCard.png" width="200px"></a>
   <a href="https://rakandev.me"><img src="./Cards/TheVoidCard.png" width="200px"></a>
-  <br />
   
  <p>
 
