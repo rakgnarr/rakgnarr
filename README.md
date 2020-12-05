@@ -1,10 +1,13 @@
 <!-- Banner -->
 ![Banner](https://user-images.githubusercontent.com/57303814/101210757-de3d0780-362a-11eb-9aab-6a40b7b3947b.png)
  
-<center>
-[<img src="./Icons/unity.svg" width="25" align="center"/>](https://rakandev.me)
-</center>
 
+[<img src="./Icons/unity.svg#center" width="25" align="center"/>](https://rakandev.me)
+
+img[src*='#center'] { 
+    display: block;
+    margin: auto;
+}
 
 
 
