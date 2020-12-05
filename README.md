@@ -3,6 +3,8 @@
  
  <p align="center">
  <a href="https://rakandev.me"><img src="./Icons/website.svg" width="35px"></a>
+ <a href="https://linkedin.com/in/rakandev"><img src="./Icons/linkedin.svg" width="35px"></a>
+ <a href="rakan.alsagoor@gmail.com"><img src="./Icons/gmail.svg" width="35px"></a>
  <p>
  
 
