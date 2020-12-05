@@ -2,7 +2,7 @@
 ![Banner](https://user-images.githubusercontent.com/57303814/101210757-de3d0780-362a-11eb-9aab-6a40b7b3947b.png)
  
  <p align="center">
- <a href="https://rakandev.me"><img src="./Icons/Website.png" width="45px"></a>
+ <a href="https://rakandev.me"><img src="./Icons/website.svg" width="45px"></a>
  <p>
  
 
