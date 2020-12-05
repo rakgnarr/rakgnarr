@@ -4,7 +4,7 @@
 [<img src="./Icons/unity.svg" width="25" align="center"/>](https://rakandev.me)
 
 <p align="center">
- 
+  <img src="./Icons/unity.svg" width="25" align="center"/>(https://rakandev.me)
   <img src= "./Icons/visualstudiocode.svg" width="35px">
 </p>
 
