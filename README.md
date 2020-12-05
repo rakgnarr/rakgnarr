@@ -1,6 +1,7 @@
 <!-- Banner -->
-![Banner](https://user-images.githubusercontent.com/57303814/101210757-de3d0780-362a-11eb-9aab-6a40b7b3947b.png)
- 
+<!-- ![Banner](https://user-images.githubusercontent.com/57303814/101210757-de3d0780-362a-11eb-9aab-6a40b7b3947b.png) -->
+![Banner](https://user-images.githubusercontent.com/57303814/101232213-24af5800-3665-11eb-9c29-a82148946aab.png)
+
  <p align="center">
  <a href="https://rakandev.me"><img src="./Icons/website.svg" width="25px"></a>
  <a href="https://linkedin.com/in/rakandev"><img src="./Icons/linkedin.svg" width="25px"></a>
