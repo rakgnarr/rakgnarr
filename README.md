@@ -55,12 +55,15 @@
 
 
 <!-- Currently -->
-##  Currently
-- Seeking a job in the tech industry
-- Working on UBBU
-- Exploring different project ideas
+##  Current Projects
+<p align="center">
+  <a href="https://rakandev.me"><img src="./Cards/UBBUCard.png" width="150px"></a>
+ <p>
 
-
+## Finished Projects/Games
+<p align="center">
+  <a href="https://rakandev.me"><img src="./Cards/TicTacTwistCard.png" width="150px"></a>
+ <p>
 
 
 <!-- Unpublished Work -->
@@ -72,9 +75,8 @@
   <a href="https://rakandev.me"><img src="./Cards/ProjektCubeCard.png" width="150px"></a>
   <a href="https://rakandev.me"><img src="./Cards/TheVoidCard.png" width="150px"></a>
   <br />
-  <a href="https://rakandev.me"><img src="./Cards/TheCubelsCard.png" width="150px"></a>
-  <a href="https://rakandev.me"><img src="./Cards/ProjektCubeCard.png" width="150px"></a>
-  <a href="https://rakandev.me"><img src="./Cards/TheVoidCard.png" width="150px"></a>
+  <a href="https://rakandev.me"><img src="./Cards/UntitledPrototype1.png" width="150px"></a>
+  <a href="https://rakandev.me"><img src="./Cards/UntitledPrototype2.png" width="150px"></a>
  <p>
 
 
