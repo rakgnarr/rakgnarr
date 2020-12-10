@@ -15,7 +15,7 @@
 
 <!-- Intro -->
 # Hi, there! 👋
- My name is Rakan. I'm an ambitious self-taught independent developer with 5+ years of programming experience. Talented problem solver with wide knowledge in creating game mechanics, 2D/3D graphics and animation, artificial intelligence, and optimization techniques.
+ My name is Rakan. I'm an ambitious self-motivated passionate developer with 5+ years of programming experience. Talented problem solver with wide knowledge in creating game mechanics, 2D/3D graphics and animation, artificial intelligence, and optimization techniques.
  
  
  
