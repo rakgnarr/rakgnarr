@@ -70,7 +70,7 @@
   <a href="https://github.com/rakansu/TicTacTwist"><img src="./Cards/TicTacTwistCard.png" width="150px"></a>
   <a href="https://github.com/rakansu/TheCubels-Info"><img src="./Cards/TheCubelsCard.png" width="150px"></a>
   <a href="https://rakandev.me"><img src="./Cards/IntoTheNightmareCard.png" width="150px"></a>
-  <a href="https://rakandev.me"><img src="./Cards/NOSquish.png" width="150px"></a> 
+  <a href="https://github.com/rakansu/NOSquish-Info"><img src="./Cards/NOSquish.png" width="150px"></a> 
   <br />
   <a href="https://rakandev.me"><img src="./Cards/ProjektCubeCard.png" width="150px"></a>
   <a href="https://github.com/rakansu/TheVoid-Info"><img src="./Cards/TheVoidCard.png" width="150px"></a>
