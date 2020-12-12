@@ -64,7 +64,7 @@
 
 <!-- Projects -->
 ## Projects
- - click on a project card to know more about it!
+ - Click on a project card to know more about it!
  <p align="center">
   <a href="https://rakandev.me"><img src="./Cards/UBBUCard.png" width="150px"></a>
   <a href="https://github.com/rakansu/TicTacTwist"><img src="./Cards/TicTacTwistCard.png" width="150px"></a>
