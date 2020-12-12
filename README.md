@@ -73,7 +73,7 @@
   <a href="https://rakandev.me"><img src="./Cards/NOSquish.png" width="150px"></a> 
   <br />
   <a href="https://rakandev.me"><img src="./Cards/ProjektCubeCard.png" width="150px"></a>
-  <a href="https://rakandev.me"><img src="./Cards/TheVoidCard.png" width="150px"></a>
+  <a href="https://github.com/rakansu/TheVoid-Info"><img src="./Cards/TheVoidCard.png" width="150px"></a>
   <a href="https://github.com/rakansu/ThePathfinder"><img src="./Cards/ThePathfinderCard.png" width="150px"></a>
   <a href="https://rakandev.me"><img src="./Cards/UntitledPrototype1.png" width="150px"></a>
   <a href="https://rakandev.me"><img src="./Cards/UntitledPrototype2.png" width="150px"></a>
