@@ -57,7 +57,7 @@
 
 <!-- Currently -->
 ##  Currently
-- Seeking a job in the Tech industry
+- Open for software engineering opportunities 
 - Working on a commercial game: UBBU(Ultimate Brick Battle Universe)
 - Exploring other project ideas
 
