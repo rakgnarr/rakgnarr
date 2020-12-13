@@ -66,7 +66,7 @@
 ## Projects
  - Click on a project card to know more about it!
  <p align="center">
-  <a href="https://rakandev.me"><img src="./Cards/UBBUCard.png" width="150px"></a>
+  <a href="https://github.com/rakansu/UBBU-Info"><img src="./Cards/UBBUCard.png" width="150px"></a>
   <a href="https://github.com/rakansu/TicTacTwist"><img src="./Cards/TicTacTwistCard.png" width="150px"></a>
   <a href="https://github.com/rakansu/TheCubels-Info"><img src="./Cards/TheCubelsCard.png" width="150px"></a>
   <a href="https://github.com/rakansu/IntoTheNightmares-Info"><img src="./Cards/IntoTheNightmareCard.png" width="150px"></a>
