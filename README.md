@@ -15,7 +15,7 @@
 
 <!-- Intro -->
 # Hi, there! 👋
- My name is Rakan. I'm an ambitious self-motivated passionate developer with 5+ years of programming experience. Talented problem solver with wide knowledge in creating game mechanics, 2D/3D graphics and animation, artificial intelligence, and optimization techniques.
+ My name is Rakan. I'm a high performant Software Engineer with exceptional leadership and critical thinking skills. I graduated from a top-tier university with a degree in Computer Science. I'm an ambitious, self-motivated, and passionate developer with diverse experience in various fields such as Software Development, Mobile Apps, Video Games, Embedded Systems, and Computer Graphics. 
  
  
  
