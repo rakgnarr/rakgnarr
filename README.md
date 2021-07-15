@@ -14,8 +14,15 @@
 
 
 <!-- Intro -->
-# Hi, there! 👋
- My name is Rakan. I'm a high performant Software Engineer with exceptional leadership and critical thinking skills. I graduated from a top-tier university with a degree in Computer Science. I'm an ambitious, self-motivated, and passionate developer with diverse experience in various fields such as Software Development, Mobile Apps, Video Games, Embedded Systems, and Computer Graphics. 
+# Hi, there! 👋 
+  I do what I love and love what I do ;)
+
+Interests:
+- Game Dev
+- Apps
+- Embedded Systems
+- Computer Graphics
+- AR/VR
  
  
  
@@ -57,8 +64,7 @@
 
 <!-- Currently -->
 ##  Currently
-- Open for software engineering opportunities 
-- Working on a commercial game: UBBU(Ultimate Brick Battle Universe)
+- SWE @Microsoft
 - Exploring other project ideas
 
 
