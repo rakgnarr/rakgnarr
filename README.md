@@ -33,7 +33,9 @@ Interests:
  - 🎮 I play video games casually & competitively
  - ☕ Love Coffee!
  - 🛹 Enjoy skateboarding
- - 📫 How to reach me: rakan.alsagoor@gmail.com
+ - 📫 How to reach me:
+   - rakan.alsagoor@gmail.com
+   - <a href="https://linkedin.com/in/rakandev">LinkedIn
  
  
  
