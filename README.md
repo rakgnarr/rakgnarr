@@ -3,7 +3,7 @@
 
 
  <p align="center">
- <a href="https://rakandev.me"><img src="./Icons/website.svg" width="25px"></a>
+ <!-- <a href="https://rakandev.me"><img src="./Icons/website.svg" width="25px"></a> -->
  <a href="https://linkedin.com/in/rakandev"><img src="./Icons/linkedin.svg" width="25px"></a>
  <p>
  
@@ -19,22 +19,20 @@
 
 Interests:
 - Game Dev
-- Apps
+- iOS/Android Apps
 - Embedded Systems
 - Computer Graphics
-- AR/VR
- 
- 
- 
+- AR/VR/MR
+  
+
  
 <!-- About Me -->
 ##  About Me
  - 🎓 Bachelor in Computer Science
- - 🕹️ Indie game developer
+ - 💻 Software Engineer | Game Developer
  - 🎮 I play video games casually & competitively
- - ☕ Love for Coffee!
+ - ☕ Love Coffee!
  - 🛹 Enjoy skateboarding
- - 📚 Bilingual
  - 📫 How to reach me: rakan.alsagoor@gmail.com
  
  
@@ -62,10 +60,6 @@ Interests:
 
 
 
-<!-- Currently -->
-##  Currently
-- SWE @Microsoft
-- Exploring other project ideas
 
 
 <!-- Projects -->
