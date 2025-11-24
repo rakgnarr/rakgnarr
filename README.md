@@ -4,7 +4,7 @@
 
  <p align="center">
  <!-- <a href="https://rakandev.me"><img src="./Icons/website.svg" width="25px"></a> -->
- <a href="https://linkedin.com/in/rakandev"><img src="./Icons/linkedin.svg" width="25px"></a>
+ <a href="https://linkedin.com/in/rakgnarr"><img src="./Icons/linkedin.svg" width="25px"></a>
  <p>
  
 
@@ -50,17 +50,17 @@ Interests:
 ## Projects
  - Click on a project card to know more about it!
  <p align="center">
-  <a href="https://github.com/rakansu/UBBU-Info"><img src="./Cards/UBBUCard.png" width="150px"></a>
-  <a href="https://github.com/rakansu/TicTacTwist"><img src="./Cards/TicTacTwistCard.png" width="150px"></a>
-  <a href="https://github.com/rakansu/TheCubels-Info"><img src="./Cards/TheCubelsCard.png" width="150px"></a>
-  <a href="https://github.com/rakansu/IntoTheNightmares-Info"><img src="./Cards/IntoTheNightmareCard.png" width="150px"></a>
-  <a href="https://github.com/rakansu/NOSquish-Info"><img src="./Cards/NOSquish.png" width="150px"></a> 
+  <a href="https://github.com/rakgnarr/UBBU-Info"><img src="./Cards/UBBUCard.png" width="150px"></a>
+  <a href="https://github.com/rakgnarr/TicTacTwist"><img src="./Cards/TicTacTwistCard.png" width="150px"></a>
+  <a href="https://github.com/rakgnarr/TheCubels-Info"><img src="./Cards/TheCubelsCard.png" width="150px"></a>
+  <a href="https://github.com/rakgnarr/IntoTheNightmares-Info"><img src="./Cards/IntoTheNightmareCard.png" width="150px"></a>
+  <a href="https://github.com/rakgnarr/NOSquish-Info"><img src="./Cards/NOSquish.png" width="150px"></a> 
   <br />
-  <a href="https://github.com/rakansu/ProjektCube-Info"><img src="./Cards/ProjektCubeCard.png" width="150px"></a>
-  <a href="https://github.com/rakansu/TheVoid-Info"><img src="./Cards/TheVoidCard.png" width="150px"></a>
-  <a href="https://github.com/rakansu/ThePathfinder"><img src="./Cards/ThePathfinderCard.png" width="150px"></a>
-  <a href="https://github.com/rakansu/UntitledPrototypeI-Info"><img src="./Cards/UntitledPrototype1.png" width="150px"></a>
-  <a href="https://github.com/rakansu/UntitledPrototypeII-Info"><img src="./Cards/UntitledPrototype2.png" width="150px"></a>
+  <a href="https://github.com/rakgnarr/ProjektCube-Info"><img src="./Cards/ProjektCubeCard.png" width="150px"></a>
+  <a href="https://github.com/rakgnarr/TheVoid-Info"><img src="./Cards/TheVoidCard.png" width="150px"></a>
+  <a href="https://github.com/rakgnarr/ThePathfinder"><img src="./Cards/ThePathfinderCard.png" width="150px"></a>
+  <a href="https://github.com/rakgnarr/UntitledPrototypeI-Info"><img src="./Cards/UntitledPrototype1.png" width="150px"></a>
+  <a href="https://github.com/rakgnarr/UntitledPrototypeII-Info"><img src="./Cards/UntitledPrototype2.png" width="150px"></a>
  <p>
 
 
